@@ -1,0 +1,52 @@
+.card {
+    background-color: #FF6B6C;
+    color:#FFFFFB; 
+    padding: 20px;
+    width: 300px;
+    height: 150px;
+    font-size: 1.5vmin;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    box-shadow: 5px 5px 15px black;
+    transform-style: preserve-3d;
+    transition: 700ms;
+    transform: rotateY(var(--rotate-y, 0))
+}
+
+.card.flipped {
+    --rotate-y: 180deg;
+}
+
+.card .front,
+.card .back {
+    position: absolute;
+    padding: 0px 20px;
+    backface-visibility: hidden;
+}
+
+.card .back {
+    transform: rotateY(180deg);
+}
+
+
+.deleteBtn {
+    padding: 10px 0px;
+    width: 20%;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: auto;
+}
+
+.favouriteBtn {
+    font-size: 20px;
+    width: 20%;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-top: auto;
+
+}
+

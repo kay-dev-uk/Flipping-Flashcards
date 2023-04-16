@@ -1,0 +1,101 @@
+#addFlashcard {
+    display: flex;
+    min-width: 80%;
+    flex-direction: column;
+    align-items: center;
+    background-color: #5b5f97;
+    border-radius: 20px;
+    padding: 20px 20px 50px;
+    margin: 50px 200px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .form {
+      margin: 0;
+    }
+  }
+
+
+#addH1 {
+    margin: 0;
+}
+
+.form-section {
+    width: 90%;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+label {
+    margin-bottom: 5px;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    font-size: 16px;
+    color: #FFFFFB;
+}
+
+button {
+    background-color:#FF6B6C;
+    color:#FFFFFB;
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Krona One', sans-serif;
+    font-size: 13px;
+}
+
+button:hover {
+    background-color: #FFFFFB;
+    color: #FF6B6C;
+    cursor: pointer;
+}
+
+input {
+    width: 100%;
+    background-color: #B8B8D1;
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 12px;
+    font-family: 'Krona One', sans-serif;
+}
+
+select {
+    background-color:#FF6B6C;
+    border-style: none;
+    color:#FFFFFB;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Krona One', sans-serif;
+    text-align: center;
+}
+
+select:hover{
+    cursor: pointer;
+}
+
+.add-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.message{
+    font-size: 20px;
+    background-color: #FF6B6C;
+    border-radius: 20px;
+    width: 150px;
+}
+
+label{
+    color: white;
+}
