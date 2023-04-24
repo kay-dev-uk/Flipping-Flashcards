@@ -26,6 +26,10 @@ What if you do not wish to use our deployment?
 
 Host your own! It's easy!
 
+### Main page of the app with pre-made flashcards
+
+![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681986200/Flipping-2_stdkkm.png)
+
 #### .env
 
 Just place in the API folder with:
