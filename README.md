@@ -34,6 +34,10 @@ Host your own! It's easy!
 
 ![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681986200/Flipping-1_igcqmw.png)
 
+### Flashcard creation menu
+
+![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681986200/Flipping-3_crkmfa.png)
+
 #### .env
 
 Just place in the API folder with:
