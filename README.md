@@ -28,7 +28,7 @@ Host your own! It's easy!
 
 ### Main page of the app with pre-made flashcards
 
-![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681986200/Flipping-2_stdkkm.png)
+![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1682340147/Flipping-2_xu7xja.png)
 
 #### .env
 
