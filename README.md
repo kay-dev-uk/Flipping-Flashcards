@@ -30,6 +30,10 @@ Host your own! It's easy!
 
 ![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1682340147/Flipping-2_xu7xja.png)
 
+### Main menu
+
+![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681986200/Flipping-1_igcqmw.png)
+
 #### .env
 
 Just place in the API folder with:
